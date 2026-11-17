@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Metadata Hub
+
+**Embryo Metadata Hub** is Embryo-Zero's fork of [datahub](https://github.com/datahub-project/datahub), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://datahub.com/?utm_source=github&utm_medium=readme&utm_campaign=github_readme&utm_content=header-logo">
     <img alt="DataHub" src="https://raw.githubusercontent.com/datahub-project/static-assets/main/imgs/datahub-logo-color-mark.svg" height="150" />
